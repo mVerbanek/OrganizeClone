@@ -149,6 +149,7 @@ public class PrincipalActivity extends AppCompatActivity {
             @Override
             public void onSwiped(@NonNull RecyclerView.ViewHolder viewHolder, int direction) {
                 excluirMovimentacao(viewHolder);
+                
             }
         };
 
