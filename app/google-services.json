@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "288863444021",
+    "project_id": "organize-b25ab",
+    "storage_bucket": "organize-b25ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288863444021:android:c1be2ecc9cfb58039da57c",
+        "android_client_info": {
+          "package_name": "com.verbanek.organize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288863444021-jm7i9868cue3a8fnmmkbgltkq54bepsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.verbanek.organize",
+            "certificate_hash": "c5cfa3e529b8d3aa0b3fa58b04d196f7c6700040"
+          }
+        },
+        {
+          "client_id": "288863444021-dl4pk296dgal3fl7j1it5sr66dtp8nv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr3PhpGEXOInY5GhO5nTQWood-bmB3KZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288863444021-dl4pk296dgal3fl7j1it5sr66dtp8nv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
